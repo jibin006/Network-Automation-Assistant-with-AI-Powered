@@ -1,5 +1,7 @@
 # 🤖 Network Automation Assistant with AI-Powered Insights
 
+## Demo Video : https://drive.google.com/file/d/1ZCtQFRyxR8IEDTQSooY_BQO2LHOjTBKA/view
+
 ## Overview
 
 This Network Automation Assistant is an innovative Python tool that combines network management capabilities with AI-powered insights, revolutionizing how network administrators troubleshoot and interact with network devices.
